@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chiranjeev11/rest_api_express/issues"
   },
-  "homepage": "https://github.com/chiranjeev11/rest_api_express#readme"
+  "homepage": "https://github.com/chiranjeev11/rest_api_express#readme",
+  "dependencies": {
+    "joi": "^17.4.2"
+  }
 }
