@@ -1,0 +1,19 @@
+{
+  "name": "rest_api_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiranjeev11/rest_api_express.git"
+  },
+  "author": "Chiranjeev Khurana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiranjeev11/rest_api_express/issues"
+  },
+  "homepage": "https://github.com/chiranjeev11/rest_api_express#readme"
+}
