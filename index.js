@@ -13,7 +13,7 @@ var courses = [
 	{'id':2, 'courseName': 'Python Programming', 'courseDuration': '2'}
 ]
 
-app.get('/', (req, res) => {
+app.get('/', (_req, res) => {
 	res.send('Hello World');
 })
 
